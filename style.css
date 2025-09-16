@@ -7,7 +7,25 @@ body{
     
 }
 
+nav{
+    background-color: #f5751f;
+    padding: 10px;
+}
+
+nav a{
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
+nav a:hover{
+    text-decoration: underline;
+
+}
+
 h1{
     color: #6b4226;
-    
+
 }
